@@ -1,31 +1,32 @@
 import tkinter as tk
 
 
-def btn_press():
-    print(ent_username.get())
+def handle_press():
+    if ent_username.get() == "hello":
+        if ent_password.get() == "world":
+            print("User logged in")
+    else:
+        print("Try again")
 
 root = tk.Tk()
 
-root.geometry("200x150")
-root.title("Login Practice")
-
+root.geometry("200x180")
+root.title("Authorization")
 
 user_label = tk.Label(root, text="Username")
-
-user_label.pack()
-
+user_label.pack(pady=5)
 
 ent_username = tk.Entry(root, bd=3)
-
 ent_username.pack(pady=5)
 
+pass_label = tk.Label(root, text="Password")
+pass_label.pack()
 
-btn_login = root.Button(root, text="Login", command=btn_press)
+ent_password = tk.Entry(root, bd=3, show="*")
+ent_password.pack(pady=5)
 
+btn_login = tk.Button(root, text="Login", command=handle_press)
 btn_login.pack()
 
-#username = ent_username.get()
-
-#print(username)
 
 root.mainloop()
