@@ -2,11 +2,35 @@ import tkinter as tk
 
 
 def handle_press():
-    if ent_username.get() == "hello":
-        if ent_password.get() == "world":
-            print("User logged in")
+    upper = False
+    lower = False
+    special = False
+    digit = False
+    
+    for char in ent_password.get():
+        if char.islower():
+            lower = True
+            print("is lower")
+        elif char.isupper():
+            upper = True
+            print("is upper")
+        elif char.isnumeric():
+            digit = True
+            print("is numeric")
+        elif not char.isalnum():
+            special = True
+            print("is special")
+    
+    if len(ent_password.get()) == 8:
+        if lower == upper == digit == special == True:
+            print("Username:", ent_username.get())
+            print("Password:", ent_password.get())
+            correct_label = tk.Label(root, text="Valid Password")
+            correct_label.pack()
     else:
-        print("Try again")
+        print("not valid")
+
+
 
 root = tk.Tk()
 
