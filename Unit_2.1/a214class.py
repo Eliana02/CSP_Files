@@ -21,14 +21,15 @@ def handle_press():
             special = True
             print("is special")
     
-    if len(ent_password.get()) == 8:
-        if lower == upper == digit == special == True:
+    if len(ent_password.get()) >= 8:
+        if lower and upper and digit and special:
             print("Username:", ent_username.get())
             print("Password:", ent_password.get())
             correct_label = tk.Label(root, text="Valid Password")
-            correct_label.pack()
+            correct_label.pack(pady=5)
     else:
         print("not valid")
+        
 
 
 
