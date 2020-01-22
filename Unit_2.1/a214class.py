@@ -1,48 +1,25 @@
 import tkinter as tk
-import string, dictionarylearning
+import string
+from passlib.hash import pbkdf2_sha256
 
 root = tk.Tk()
 
+'''def hash_password(password):
+    hash = pbkdf2_sha256.hash(ent_password.get())
+    return(hash)'''
+
+def check_password(password):
+    if users[ent_username.get()] == ent_password.get():
+        return True
+
 def handle_login():
-    print("Username:", ent_username.get())
-    print("Password:", ent_password.get())
-
-def handle_signup():
-    if is_valid_password(ent_password.get()):
-        result_label.config(text="That is valid")
-        if ent_username.get() not in users:
-            users[ent_username.get()] = ent_password.get()
-        result_label.config(text="You are signed in")
+    if ent_username.get() in users:
+        if not check_password(ent_password.get()):
+            result_label.config(text="That password is incorrect")
+        else:
+            result_label.config(text="You are signed in")
     else:
-        result_label.config(text="That is NOT valid")
-
-    '''upper = False
-    lower = False
-    special = False
-    digit = False
-    
-    for char in ent_password.get():
-        if char.islower():
-            lower = True
-            print("is lower")
-        elif char.isupper():
-            upper = True
-            print("is upper")
-        elif char.isnumeric():
-            digit = True
-            print("is numeric")
-        elif not char.isalnum():
-            special = True
-            print("is special")
-    
-    if len(ent_password.get()) >= 8:
-        if lower and upper and digit and special:
-            print("Username:", ent_username.get())
-            print("Password:", ent_password.get())
-            correct_label = tk.Label(root, text="Valid Password")
-            correct_label.pack(pady=5)
-    else:
-        print("not valid")'''
+        result_label.config(text="That is not an account, please sign up")
 
 def is_valid_password(password):
     if len(password) < 8:
@@ -66,6 +43,20 @@ def is_valid_password(password):
             special = True
     
     return lower and upper and digit and special
+
+def handle_signup():
+
+    if is_valid_password(ent_password.get()):
+        result_label.config(text="That is valid")
+        if ent_username.get() not in users:
+            users[ent_username.get()] = ent_password.get()
+            result_label.config(text="You are signed up")
+        else:
+            result_label.config(text="That username is taken")
+    else:
+        result_label.config(text="That is NOT valid")
+
+users = {}
 
 root.geometry("300x250")
 root.title("Authorization")
