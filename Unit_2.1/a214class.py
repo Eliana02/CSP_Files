@@ -4,12 +4,12 @@ from passlib.hash import pbkdf2_sha256
 
 root = tk.Tk()
 
-'''def hash_password(password):
+def hash_password(password):
     hash = pbkdf2_sha256.hash(ent_password.get())
-    return(hash)'''
+    return(hash)
 
 def check_password(password):
-    if users[ent_username.get()] == ent_password.get():
+    if pbkdf2_sha256.verify(ent_password.get(), users[ent_username.get()]):
         return True
 
 def handle_login():
@@ -49,7 +49,7 @@ def handle_signup():
     if is_valid_password(ent_password.get()):
         result_label.config(text="That is valid")
         if ent_username.get() not in users:
-            users[ent_username.get()] = ent_password.get()
+            users[ent_username.get()] = hash_password(ent_password.get())
             result_label.config(text="You are signed up")
         else:
             result_label.config(text="That username is taken")
