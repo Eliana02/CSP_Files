@@ -24,3 +24,6 @@ plt.xlabel("Sound")
 plt.ylabel("Time")
 
 plt.show()
+
+'''for sound in sounda:
+    if sound > 80:'''

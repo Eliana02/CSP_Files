@@ -1,0 +1,9447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Version>4.10.0-2063</Version>
+  <charset>utf-8</charset>
+  <ApplicationBuildDateTime>16-10-2019</ApplicationBuildDateTime>
+  <Copyright>Copyright (c) 2007-2020 Vernier Software &amp; Technology and its licensors</Copyright>
+  <FileName>light_sensor.csv</FileName>
+  <CreatorOS>1</CreatorOS>
+  <CreatorApp>4</CreatorApp>
+  <AbsoluteVersion>4.10.0-2063</AbsoluteVersion>
+  <DataWorld>
+    <DataWorldRunPrefix>Run</DataWorldRunPrefix>
+    <MatrixDefaultPref>0</MatrixDefaultPref>
+    <UDMExperimentName>light_sensor.csv</UDMExperimentName>
+  </DataWorld>
+  <Page>
+    <ID>102</ID>
+    <BroadcastTo>0</BroadcastTo>
+    <PageTable>
+      <ID>101</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>0</Visible>
+      <TableColumn>185 0.9</TableColumn>
+      <TableColumn>186 0.9</TableColumn>
+      <TableColumn>187 0.9</TableColumn>
+      <TableColumn>188 0.9</TableColumn>
+      <TableColumn>189 0.9</TableColumn>
+      <TableColumn>179 0.9</TableColumn>
+      <TableColumn>180 0.9</TableColumn>
+      <TableColumn>181 0.9</TableColumn>
+      <TableColumn>182 0.9</TableColumn>
+      <TableColumn>183 0.9</TableColumn>
+      <TableColumn>173 0.9</TableColumn>
+      <TableColumn>174 0.9</TableColumn>
+      <TableColumn>175 0.9</TableColumn>
+      <TableColumn>176 0.9</TableColumn>
+      <TableColumn>177 0.9</TableColumn>
+      <TableColumn>167 0.9</TableColumn>
+      <TableColumn>168 0.9</TableColumn>
+      <TableColumn>169 0.9</TableColumn>
+      <TableColumn>170 0.9</TableColumn>
+      <TableColumn>171 0.9</TableColumn>
+      <TableColumn>161 0.9</TableColumn>
+      <TableColumn>162 0.9</TableColumn>
+      <TableColumn>163 0.9</TableColumn>
+      <TableColumn>164 0.9</TableColumn>
+      <TableColumn>165 0.9</TableColumn>
+      <TableColumn>155 0.9</TableColumn>
+      <TableColumn>156 0.9</TableColumn>
+      <TableColumn>157 0.9</TableColumn>
+      <TableColumn>158 0.9</TableColumn>
+      <TableColumn>159 0.9</TableColumn>
+      <TableColumn>149 0.9</TableColumn>
+      <TableColumn>150 0.9</TableColumn>
+      <TableColumn>151 0.9</TableColumn>
+      <TableColumn>152 0.9</TableColumn>
+      <TableColumn>153 0.9</TableColumn>
+      <TableColumn>122 0.9</TableColumn>
+      <TableColumn>123 0.9</TableColumn>
+      <TableColumn>132 0.9</TableColumn>
+      <TableColumn>138 0.9</TableColumn>
+      <TableColumn>144 0.9</TableColumn>
+      <TableColumn>119 0.9</TableColumn>
+      <TableColumn>120 0.9</TableColumn>
+      <TableColumn>135 0.9</TableColumn>
+      <TableColumn>141 0.9</TableColumn>
+      <TableColumn>147 0.9</TableColumn>
+      <TableColumn>111 0.9</TableColumn>
+      <TableColumn>113 0.9</TableColumn>
+      <TableColumn>134 0.9</TableColumn>
+      <TableColumn>140 0.9</TableColumn>
+      <TableColumn>146 0.9</TableColumn>
+    </PageTable>
+    <PageMeter>
+      <ID>114</ID>
+      <MeterColumnID>113</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+    <PageGraphCartesian>
+      <ID>115</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>1</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>37.650000000000</GraphPlotXMax>
+      <GraphPlotYMin>-20.000000000000</GraphPlotYMin>
+      <GraphPlotYMax>32.655344009399</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>111</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+      <GraphPlotTraceIDPairs>1 185 187</GraphPlotTraceIDPairs>
+    </PageGraphCartesian>
+    <PageGraphCartesian>
+      <ID>116</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>1</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>37.650000000000</GraphPlotXMax>
+      <GraphPlotYMin>-20.000000000000</GraphPlotYMin>
+      <GraphPlotYMax>44.392349243164</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>111</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+      <GraphPlotTraceIDPairs>1 185 188</GraphPlotTraceIDPairs>
+    </PageGraphCartesian>
+    <PageGraphCartesian>
+      <ID>117</ID>
+      <BroadcastTo>0</BroadcastTo>
+      <Visible>1</Visible>
+      <GraphPlotXMin>0.000000000000</GraphPlotXMin>
+      <GraphPlotXMax>37.650000000000</GraphPlotXMax>
+      <GraphPlotYMin>-20.000000000000</GraphPlotYMin>
+      <GraphPlotYMax>52.677791595459</GraphPlotYMax>
+      <UDMGraphPlotRightYMin>0.000000000000</UDMGraphPlotRightYMin>
+      <UDMGraphPlotRightYMax>1.000000000000</UDMGraphPlotRightYMax>
+      <UDMGraphPlotRightYEnabled>0</UDMGraphPlotRightYEnabled>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <UDMGraphPlotRightYAutoscale>0</UDMGraphPlotRightYAutoscale>
+      <GraphPlotBaseColumnID>111</GraphPlotBaseColumnID>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphTitle></GraphTitle>
+      <GraphPlotTraceIDPairs>1 185 189</GraphPlotTraceIDPairs>
+    </PageGraphCartesian>
+    <PageMeter>
+      <ID>127</ID>
+      <MeterColumnID>126</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+    <PageMeter>
+      <ID>133</ID>
+      <MeterColumnID>132</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+    <PageMeter>
+      <ID>139</ID>
+      <MeterColumnID>138</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+    <PageMeter>
+      <ID>145</ID>
+      <MeterColumnID>144</MeterColumnID>
+      <Visible>0</Visible>
+    </PageMeter>
+  </Page>
+  <DataSet>
+    <ID>104</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 1</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>111</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>113</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+      <ColumnCells>
+46.937412262
+47.1362991333
+47.1362991333
+47.3351860046
+47.3351860046
+47.3351860046
+47.3351860046
+47.534072876
+51.9095954895
+52.3073692322
+27.0486774445
+21.6787185669
+22.8720436096
+35.2030563354
+51.5118179321
+56.881778717
+55.8873405457
+55.6884536743
+55.0917930603
+54.4951286316
+53.8984680176
+52.9040298462
+52.1084823608
+51.7107048035
+51.5118179321
+51.3129310608
+51.3129310608
+51.5118179321
+51.5118179321
+51.7107048035
+51.5118179321
+51.3129310608
+49.7218322754
+48.92628479
+3.57997202873
+10.7399158478
+36.9930458069
+32.2197494507
+22.2753810883
+21.2809448242
+25.6564655304
+26.2531280518
+20.8831691742
+17.3031978607
+17.8998603821
+20.2865085602
+19.6898460388
+19.8887329102
+20.6842823029
+21.2809448242
+17.8998603821
+10.9388036728
+8.94993019104
+8.15438079834
+4.37552118301
+3.57997202873
+2.98330998421
+3.18219733238
+3.18219733238
+1.98887336254
+1.39221131802
+1.19332396984
+1.19332396984
+1.19332396984
+1.19332396984
+1.19332396984
+1.19332396984
+1.19332396984
+1.39221131802
+1.39221131802
+1.39221131802
+1.39221131802
+1.59109866619
+1.59109866619
+1.59109866619
+9.74547958374
+50.9151573181
+51.5118179321
+50.5173835754
+50.1196098328
+49.5229454041
+48.92628479
+48.7273979187
+49.1251716614
+49.5229454041
+50.1196098328
+50.7162704468
+51.5118179321
+52.1084823608
+52.5062561035
+52.5062561035
+52.3073692322
+51.7107048035
+51.5118179321
+52.1084823608
+52.3073692322
+52.5062561035
+52.7051429749
+52.7051429749
+52.7051429749
+52.5062561035
+52.1084823608
+51.7107048035
+51.5118179321
+51.3129310608
+51.1140441895
+51.1140441895
+50.9151573181
+50.1196098328
+47.3351860046
+41.1696777344
+32.418636322
+31.2253112793
+33.8108482361
+25.0598049164
+16.1098747253
+15.314324379
+24.8609161377
+35.9986076355
+50.9151573181
+54.0973548889
+50.1196098328
+48.5285110474
+47.1362991333
+49.7218322754
+75.9749603271
+90.2948455811
+81.3449172974
+75.9749603271
+90.2948455811
+103.22252655
+114.956878662
+116.349090576
+113.365783691
+111.774681091
+113.166893005
+112.37134552
+125.100135803
+138.425582886
+127.884552002
+127.287895203
+132.657852173
+137.828918457
+137.431152344
+137.6300354
+136.834487915
+136.834487915
+139.221130371
+139.618911743
+141.607788086
+141.607788086
+141.408889771
+142.005554199
+142.602218628
+143.397766113
+143.397766113
+143.795547485
+143.397766113
+142.204437256
+141.011123657
+139.221130371
+138.027816772
+137.232254028
+136.834487915
+136.834487915
+136.635604858
+136.635604858
+136.03894043
+135.641159058
+134.845611572
+135.442276001
+132.260070801
+114.956878662
+34.4075088501
+5.36995792389
+6.36439466476
+7.55771875381
+8.15438079834
+8.15438079834
+8.15438079834
+7.75660610199
+7.15994405746
+6.16550731659
+48.5285110474
+85.1237792969
+102.625862122
+110.581359863
+111.575790405
+95.8636932373
+19.2920703888
+5.96661996841
+6.96105670929
+7.35883140564
+7.35883140564
+7.15994405746
+6.16550731659
+5.36995792389
+8.75104236603
+56.4840011597
+111.376907349
+130.072311401
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>134</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <DataObjectColor>0xd8d8 0x2626 0x2f2f</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>140</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+    </DataColumn>
+    <DataColumn>
+      <ID>146</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>118</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 2</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>119</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>120</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+331.74407959
+458.833068848
+562.851135254
+594.474243164
+423.033355713
+122.514602661
+30.62865448
+-20.0876197815
+-30.0319862366
+-51.1140422821
+-55.0917892456
+-53.3018035889
+-45.9429702759
+-21.0820541382
+32.6175231934
+87.908203125
+244.034759521
+424.624450684
+710.624450684
+1121.92346191
+1491.25720215
+2141.02209473
+3077.98034668
+3988.6854248
+4446.52429199
+4348.8704834
+4125.51989746
+1140.0222168
+-43.1585502625
+-31.623085022
+-31.4241981506
+-31.4241981506
+-31.623085022
+-31.623085022
+-31.8219718933
+-33.4130706787
+-53.6995773315
+-23.667591095
+73.9860839844
+117.74130249
+216.986083984
+192.920715332
+115.553543091
+90.4937438965
+22.076499939
+-17.8998565674
+-48.5285072327
+-54.2962398529
+-57.4784374237
+-60.0639724731
+-59.0695362091
+-56.0862255096
+-52.3073673248
+-49.125169754
+-45.5451965332
+-41.3685646057
+-32.219745636
+1.5911026001
+11.7343521118
+51.3129272461
+394.990234375
+1223.15710449
+2702.68005371
+4176.83288574
+5383.88024902
+6401.58679199
+6888.46276855
+5337.93737793
+1464.80517578
+80.748260498
+-72.7927618027
+-74.9805223942
+-75.1794097424
+-75.1794097424
+-74.9805223942
+-74.781635046
+-73.9860858917
+-27.4464492798
+944.71484375
+7495.66589355
+10223.2064209
+6235.51550293
+2319.42419434
+1770.09729004
+1768.70507812
+1812.65917969
+2061.6661377
+3313.4630127
+6584.76159668
+9494.88122559
+4304.91638184
+198.489562988
+-74.3838603497
+-76.3727337122
+-76.3727337122
+-76.3727337122
+-76.3727337122
+-76.173846364
+-73.9860858917
+177.606384277
+4022.09851074
+12141.6741943
+15382.1917725
+15243.4007568
+14931.1204834
+14485.005249
+13994.2786865
+11793.4466553
+4011.22253418
+235.283721924
+-73.9860858917
+-76.5716210604
+-76.9693957567
+-76.9693957567
+-76.9693957567
+-77.1682830453
+-76.9693957567
+-76.5716210604
+-76.173846364
+-75.9749591351
+-75.3782970905
+-72.7927618027
+-68.2183532715
+-62.2517328262
+-39.9763526917
+117.74130249
+594.872009277
+1338.51171875
+2679.0123291
+5195.33483887
+8217.82556152
+11303.5628662
+15099.65271
+21697.192749
+27590.864624
+30510.4388428
+31392.7532959
+32289.9407959
+33910.8255615
+36473.505249
+37668.1029053
+38485.9779053
+39016.3607178
+38961.833374
+38917.223999
+38902.3529053
+39115.4974365
+39284.0286865
+39566.567749
+40082.0794678
+40528.192749
+40736.380249
+40959.4388428
+41237.020874
+41241.9779053
+41048.661499
+41078.3997803
+41147.7982178
+40776.0325928
+40255.567749
+39640.9193115
+39596.3099365
+40409.2279053
+41360.9388428
+41926.020874
+42352.3060303
+41881.4075928
+38644.598999
+18569.4329834
+367.952026367
+-75.1794097424
+-76.9693957567
+-76.9693957567
+-75.3782970905
+-74.5827476978
+-74.5827476978
+-74.781635046
+-74.781635046
+-74.781635046
+-74.3838603497
+-73.9860858917
+-73.190536499
+-72.7927618027
+-72.5938744545
+-72.5938744545
+-72.3949871063
+-71.99721241
+-71.2016630173
+-71.2016630173
+-71.4005503654
+-70.8038883209
+-69.6105642319
+-68.8150148392
+-69.8094520569
+-71.2016630173
+-71.2016630173
+-63.6439447403
+29.4353256226
+1202.47277832
+6321.43493652
+7977.37097168
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>135</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>141</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+    </DataColumn>
+    <DataColumn>
+      <ID>147</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>121</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 3</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>122</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>123</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+-43.7552108765
+-44.3518714905
+-45.1474227905
+-48.9262809753
+-66.6272544861
+-70.8038883209
+-73.5883111954
+-73.5883111954
+-65.8317050934
+18.8943023682
+103.81918335
+135.243392944
+189.539642334
+282.817779541
+450.479797363
+730.31427002
+1175.22521973
+1490.46166992
+1492.64941406
+1339.90393066
+714.204406738
+49.5229492188
+-68.8150148392
+-74.9805223942
+-75.9749591351
+-75.9749591351
+-75.7760717869
+-74.3838603497
+-69.6105642319
+-64.0417194366
+-62.4506206512
+-62.0528450012
+-62.8483953476
+-63.4450569153
+-63.6439447403
+-63.8428316116
+-63.8428316116
+-63.6439447403
+-63.0472822189
+-63.2461700439
+-63.0472822189
+-40.771900177
+52.5062561035
+160.104309082
+240.057006836
+267.30456543
+293.55770874
+463.00970459
+1339.10839844
+6188.18054199
+12473.2191162
+19000.677124
+27129.880249
+31080.473999
+32622.0482178
+31938.005249
+21429.5247803
+10579.0228271
+4893.53845215
+2664.0958252
+1687.75793457
+1019.29760742
+838.508972168
+766.114013672
+840.29901123
+1158.91650391
+1489.26831055
+1821.41015625
+2389.63122559
+3042.97619629
+3905.35168457
+5245.85241699
+6954.89099121
+8158.95544434
+8761.38513184
+9605.86071777
+10303.5570068
+10685.2220459
+11020.7445068
+11059.8353271
+10911.130249
+10732.6849365
+10529.4544678
+9771.05993652
+7694.14733887
+5055.11950684
+3178.61730957
+2025.07092285
+1262.53674316
+803.107055664
+535.205810547
+387.432525635
+312.650878906
+269.293457031
+251.990264893
+246.81918335
+243.040313721
+241.648101807
+246.620300293
+265.315704346
+302.905426025
+344.870635986
+410.702331543
+542.962402344
+764.12512207
+1197.50061035
+2066.63830566
+3537.60900879
+5386.86364746
+7128.9173584
+7966.82995605
+8911.34606934
+10232.355835
+11599.3079834
+12636.1077881
+13458.9417725
+13607.645874
+12953.3450928
+10172.5628662
+3168.56115723
+334.528503418
+-64.6383810043
+-75.1794097424
+-76.7705084085
+-76.9693957567
+-76.3727337122
+-72.5938744545
+-69.0139026642
+-64.439494133
+-59.4673099518
+-59.0695362091
+-60.6606349945
+-67.8205785751
+-70.8038883209
+-74.1849730015
+-75.7760717869
+-74.9805223942
+-71.5994377136
+51.7107086182
+771.682861328
+2578.57434082
+4504.99694824
+5671.67028809
+5939.57116699
+6092.91345215
+6291.20397949
+6650.7923584
+7340.93151855
+7526.09558105
+7809.51013184
+8073.63220215
+7947.73669434
+8275.90075684
+10206.5003662
+12241.3167725
+13082.2220459
+11332.4613037
+8328.62145996
+5949.11804199
+5770.3182373
+6190.56726074
+6549.9564209
+6557.31530762
+6220.00231934
+6085.35583496
+6741.68395996
+8223.59313965
+8276.69665527
+6634.48376465
+4242.46569824
+1627.29614258
+199.484008789
+-62.2517328262
+-69.4116773605
+-72.9916491508
+-73.190536499
+-72.5938744545
+-68.0194654465
+-44.1529846191
+2010.55212402
+12391.4759521
+29836.3099365
+25974.9388428
+12427.9202881
+3505.62585449
+329.158538818
+-67.8205785751
+-74.9805223942
+-76.5716210604
+-77.1682830453
+-77.5660577416
+-77.5660577416
+-77.76494506
+-77.5660577416
+-77.5660577416
+-77.3671703935
+-77.1682830453
+-77.1682830453
+-76.9693957567
+-76.3727337122
+-72.1960997581
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>132</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>138</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+    </DataColumn>
+    <DataColumn>
+      <ID>144</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>148</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 4</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>149</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>150</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>151</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+11.8116550446
+11.8116550446
+12.3178691864
+12.3178691864
+41.1720542908
+41.1720542908
+32.5664176941
+32.5664176941
+20.9235019684
+20.9235019684
+7.08699226379
+7.08699226379
+2.02485513687
+2.02485513687
+5.56835126877
+5.56835126877
+6.07456493378
+6.07456493378
+7.59320640564
+7.59320640564
+8.26815891266
+8.26815891266
+8.26815891266
+8.26815891266
+7.93068218231
+7.93068218231
+7.08699226379
+7.08699226379
+5.73708963394
+5.73708963394
+5.06213760376
+5.06213760376
+4.89340019226
+4.89340019226
+4.89340019226
+4.89340019226
+3.71223449707
+3.71223449707
+2.02485513687
+2.02485513687
+1.18116545677
+1.18116545677
+1.51864123344
+1.51864123344
+4.72466182709
+4.72466182709
+11.8116550446
+11.8116550446
+29.1916599274
+29.1916599274
+45.390499115
+45.390499115
+41.0033149719
+41.0033149719
+29.3603973389
+29.3603973389
+19.2361221313
+19.2361221313
+19.573600769
+19.573600769
+18.7299098969
+18.7299098969
+19.2361221313
+19.2361221313
+23.1170959473
+23.1170959473
+35.0974884033
+35.0974884033
+40.4971008301
+40.4971008301
+43.0281715393
+43.0281715393
+42.3532180786
+42.3532180786
+45.390499115
+45.390499115
+36.44739151
+36.44739151
+26.4918556213
+26.4918556213
+25.4794273376
+25.4794273376
+23.6233100891
+23.6233100891
+23.4545707703
+23.4545707703
+27.3355445862
+27.3355445862
+33.2413711548
+33.2413711548
+39.3159332275
+39.3159332275
+44.378074646
+44.378074646
+45.390499115
+45.390499115
+42.6906929016
+42.6906929016
+29.6978759766
+29.6978759766
+16.198841095
+16.198841095
+12.1491298676
+12.1491298676
+10.7992277145
+10.7992277145
+12.3178691864
+12.3178691864
+12.3178691864
+12.3178691864
+12.9928197861
+12.9928197861
+12.8240833282
+12.8240833282
+21.2609786987
+21.2609786987
+56.3584709167
+56.3584709167
+27.1668071747
+27.1668071747
+13.3302955627
+13.3302955627
+10.1242752075
+10.1242752075
+6.24330282211
+6.24330282211
+3.37475848198
+3.37475848198
+4.55592393875
+4.55592393875
+8.26815891266
+8.26815891266
+7.59320640564
+7.59320640564
+6.24330329895
+6.24330329895
+4.89340019226
+4.89340019226
+8.77437210083
+8.77437210083
+15.8613643646
+15.8613643646
+21.0922412872
+21.0922412872
+34.4225349426
+34.4225349426
+37.9660339355
+37.9660339355
+29.5291366577
+29.5291366577
+17.3800067902
+17.3800067902
+9.61806106567
+9.61806106567
+5.2308754921
+5.2308754921
+2.69980669022
+2.69980669022
+16.8737926483
+16.8737926483
+43.0281715393
+43.0281715393
+7.93068218231
+7.93068218231
+5.73708963394
+5.73708963394
+6.58077907562
+6.58077907562
+9.44932365417
+9.44932365417
+13.1615581512
+13.1615581512
+14.3427238464
+14.3427238464
+14.0052480698
+14.0052480698
+20.7547645569
+20.7547645569
+37.6285552979
+37.6285552979
+41.8470039368
+41.8470039368
+49.2714767456
+49.2714767456
+48.9339981079
+48.9339981079
+46.4029273987
+46.4029273987
+46.0654525757
+46.0654525757
+43.3656463623
+43.3656463623
+46.9091415405
+46.9091415405
+49.4402122498
+49.4402122498
+44.715549469
+44.715549469
+43.5343818665
+43.5343818665
+42.6906929016
+</ColumnCells>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>152</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+15.1103038788
+15.1103038788
+14.6785812378
+14.6785812378
+39.7185134888
+39.7185134888
+36.2647285461
+36.2647285461
+27.8461303711
+27.8461303711
+9.06618213654
+9.06618213654
+3.66964530945
+3.66964530945
+4.9648141861
+4.9648141861
+7.77101325989
+7.77101325989
+11.872382164
+11.872382164
+11.6565208435
+11.6565208435
+11.6565208435
+11.6565208435
+11.2247972488
+11.2247972488
+10.1454896927
+10.1454896927
+8.41859817505
+8.41859817505
+7.55515193939
+7.55515193939
+6.25998353958
+6.25998353958
+6.25998353958
+6.25998353958
+4.7489528656
+4.7489528656
+3.66964530945
+3.66964530945
+1.51103043556
+1.51103043556
+1.94275331497
+1.94275331497
+6.04412174225
+6.04412174225
+18.3482265472
+18.3482265472
+31.9474983215
+31.9474983215
+38.6392059326
+38.6392059326
+37.3440361023
+37.3440361023
+28.9254379272
+28.9254379272
+18.1323642731
+18.1323642731
+17.4847812653
+17.4847812653
+18.5640888214
+18.5640888214
+17.0530567169
+17.0530567169
+23.0971794128
+23.0971794128
+42.7405738831
+42.7405738831
+49.6481437683
+49.6481437683
+50.7274513245
+50.7274513245
+50.9433135986
+50.9433135986
+50.5115890503
+50.5115890503
+37.9916229248
+37.9916229248
+30.6523323059
+30.6523323059
+30.4364700317
+30.4364700317
+28.0619926453
+28.0619926453
+28.9254379272
+28.9254379272
+40.3661003113
+40.3661003113
+43.6040229797
+43.6040229797
+49.21641922
+49.21641922
+54.612953186
+54.612953186
+53.7495079041
+53.7495079041
+44.8991889954
+44.8991889954
+32.595085144
+32.595085144
+16.4054737091
+16.4054737091
+11.2247972488
+11.2247972488
+10.5772132874
+10.5772132874
+11.440659523
+11.440659523
+12.5199670792
+12.5199670792
+12.304104805
+12.304104805
+14.2468585968
+14.2468585968
+26.1192417145
+26.1192417145
+50.511592865
+50.511592865
+34.7537002563
+34.7537002563
+20.2909793854
+20.2909793854
+15.1103038788
+15.1103038788
+9.06618213654
+9.06618213654
+4.31722974777
+4.31722974777
+6.90756750107
+6.90756750107
+11.6565208435
+11.6565208435
+9.7137670517
+9.7137670517
+5.82826042175
+5.82826042175
+6.25998353958
+6.25998353958
+11.2247972488
+11.2247972488
+21.3702869415
+21.3702869415
+26.9826850891
+26.9826850891
+33.2426681519
+33.2426681519
+34.5378379822
+34.5378379822
+32.3792228699
+32.3792228699
+26.5509624481
+26.5509624481
+11.2247972488
+11.2247972488
+6.69170570374
+6.69170570374
+4.53309106827
+4.53309106827
+22.6654567719
+22.6654567719
+47.489528656
+47.489528656
+10.1454896927
+10.1454896927
+7.3392906189
+7.3392906189
+8.41859817505
+8.41859817505
+12.0882434845
+12.0882434845
+14.6785812378
+14.6785812378
+16.1896114349
+16.1896114349
+16.8371963501
+16.8371963501
+26.5509624481
+26.5509624481
+41.6612663269
+41.6612663269
+37.3440361023
+37.3440361023
+40.3661003113
+40.3661003113
+39.9343757629
+39.9343757629
+38.8550682068
+38.8550682068
+38.4233436584
+38.4233436584
+37.1281776428
+37.1281776428
+39.5026512146
+39.5026512146
+39.5026512146
+39.5026512146
+38.8550682068
+38.8550682068
+40.5819587708
+40.5819587708
+49.21641922
+</ColumnCells>
+      <DataObjectColor>0xd8d8 0x2626 0x2f2f</DataObjectColor>
+    </DataColumn>
+    <DataColumn>
+      <ID>153</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+7.97019338608
+7.97019338608
+9.16572284698
+9.16572284698
+29.4897136688
+29.4897136688
+25.1061058044
+25.1061058044
+19.526971817
+19.526971817
+4.78211545944
+4.78211545944
+2.78956794739
+2.78956794739
+3.18807721138
+3.18807721138
+6.37615442276
+6.37615442276
+11.9552898407
+11.9552898407
+11.5567808151
+11.5567808151
+11.5567808151
+11.5567808151
+10.759759903
+10.759759903
+10.759759903
+10.759759903
+7.57168388367
+7.57168388367
+5.97764492035
+5.97764492035
+5.57913589478
+5.57913589478
+5.57913589478
+5.57913589478
+4.78211641312
+4.78211641312
+2.78956794739
+2.78956794739
+0.797019302845
+0.797019302845
+1.59403860569
+1.59403860569
+3.18807721138
+3.18807721138
+13.9478387833
+13.9478387833
+25.1061058044
+25.1061058044
+29.4897136688
+29.4897136688
+27.0986537933
+27.0986537933
+21.5195198059
+21.5195198059
+13.5493268967
+13.5493268967
+12.3538017273
+12.3538017273
+12.3538017273
+12.3538017273
+11.5567789078
+11.5567789078
+16.737405777
+16.737405777
+31.0837516785
+31.0837516785
+35.8658714294
+35.8658714294
+39.8509674072
+39.8509674072
+36.2643814087
+36.2643814087
+35.4673576355
+35.4673576355
+26.3016395569
+26.3016395569
+22.7150535583
+22.7150535583
+22.3165435791
+22.3165435791
+19.9254837036
+19.9254837036
+19.526971817
+19.526971817
+26.7001514435
+26.7001514435
+30.6852474213
+30.6852474213
+37.0613975525
+37.0613975525
+39.053943634
+39.053943634
+41.4450035095
+41.4450035095
+33.07629776
+33.07629776
+24.309091568
+24.309091568
+10.3612527847
+10.3612527847
+8.76721191406
+8.76721191406
+7.57168388367
+7.57168388367
+7.17317485809
+7.17317485809
+9.16572284698
+9.16572284698
+8.76721191406
+8.76721191406
+10.3612527847
+10.3612527847
+20.3239955902
+20.3239955902
+41.4450111389
+41.4450111389
+26.3016395569
+26.3016395569
+15.5418758392
+15.5418758392
+11.9552898407
+11.9552898407
+6.77466344833
+6.77466344833
+3.98509669304
+3.98509669304
+6.77466440201
+6.77466440201
+11.5567808151
+11.5567808151
+7.97019338608
+7.97019338608
+4.78211641312
+4.78211641312
+5.57913589478
+5.57913589478
+8.76721191406
+8.76721191406
+15.5418758392
+15.5418758392
+19.9254837036
+19.9254837036
+25.504617691
+25.504617691
+25.9031276703
+25.9031276703
+25.9031276703
+25.9031276703
+19.1284656525
+19.1284656525
+10.759759903
+10.759759903
+6.37615442276
+6.37615442276
+4.38360595703
+4.38360595703
+17.9329357147
+17.9329357147
+37.858417511
+37.858417511
+8.76721191406
+8.76721191406
+5.57913589478
+5.57913589478
+5.57913589478
+5.57913589478
+10.3612508774
+10.3612508774
+11.1582717896
+11.1582717896
+11.9552898407
+11.9552898407
+13.1508197784
+13.1508197784
+19.1284656525
+19.1284656525
+31.0837516785
+31.0837516785
+29.0912036896
+29.0912036896
+30.6852474213
+30.6852474213
+29.8882255554
+29.8882255554
+29.8882255554
+29.8882255554
+29.0912036896
+29.0912036896
+26.7001514435
+26.7001514435
+29.0912036896
+29.0912036896
+31.0837516785
+31.0837516785
+29.8882255554
+29.8882255554
+31.0837516785
+31.0837516785
+37.0613975525
+</ColumnCells>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>154</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 5</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>155</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>156</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>157</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+45.390499115
+45.390499115
+39.4846725464
+39.4846725464
+34.0850601196
+34.0850601196
+33.4101066589
+33.4101066589
+18.7299098969
+18.7299098969
+4.89340019226
+4.89340019226
+5.2308754921
+5.2308754921
+5.90582752228
+5.90582752228
+7.42446804047
+7.42446804047
+3.71223402023
+3.71223402023
+11.9803924561
+11.9803924561
+8.943110466
+8.943110466
+2.53106880188
+2.53106880188
+2.36233091354
+2.36233091354
+4.21844816208
+4.21844816208
+6.41204166412
+6.41204166412
+3.88097214699
+3.88097214699
+13.3302955627
+13.3302955627
+36.784866333
+36.784866333
+42.3532180786
+42.3532180786
+43.3656463623
+43.3656463623
+39.9908905029
+39.9908905029
+37.7972946167
+37.7972946167
+36.6161308289
+36.6161308289
+38.4722442627
+38.4722442627
+43.0281715393
+43.0281715393
+43.5343818665
+43.5343818665
+44.378074646
+44.378074646
+49.9464225769
+49.9464225769
+32.2289428711
+32.2289428711
+25.9856395721
+25.9856395721
+21.0922412872
+21.0922412872
+18.7299098969
+18.7299098969
+27.5042800903
+27.5042800903
+38.4722442627
+38.4722442627
+39.3159332275
+39.3159332275
+23.6233100891
+23.6233100891
+6.58077907562
+6.58077907562
+4.21844816208
+4.21844816208
+4.04971027374
+4.04971027374
+4.72466182709
+4.72466182709
+4.55592393875
+4.55592393875
+4.72466182709
+4.72466182709
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.72466182709
+4.72466182709
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+4.38718605042
+4.38718605042
+4.04971027374
+4.04971027374
+4.04971027374
+4.04971027374
+8.943110466
+8.943110466
+49.4402122498
+49.4402122498
+35.0974884033
+35.0974884033
+30.2040882111
+30.2040882111
+33.2413711548
+33.2413711548
+33.4101066589
+33.4101066589
+34.0850601196
+34.0850601196
+33.4101066589
+33.4101066589
+31.3852539062
+31.3852539062
+33.4101066589
+33.4101066589
+680.688842773
+680.688842773
+4.72466230392
+4.72466230392
+278.417572021
+278.417572021
+1547.32678223
+1547.32678223
+962.481140137
+962.481140137
+1116.20141602
+1116.20141602
+251.08203125
+251.08203125
+806.735961914
+806.735961914
+39.9908905029
+39.9908905029
+46.2341918945
+46.2341918945
+54.1648712158
+54.1648712158
+43.3656463623
+43.3656463623
+24.2982597351
+24.2982597351
+16.7050533295
+16.7050533295
+18.8986473083
+18.8986473083
+23.9607849121
+23.9607849121
+202.148040771
+202.148040771
+39.6534118652
+39.6534118652
+37.9660339355
+37.9660339355
+39.1472015381
+39.1472015381
+43.7031211853
+43.7031211853
+35.0974884033
+35.0974884033
+15.1864128113
+15.1864128113
+10.967965126
+10.967965126
+18.0549583435
+18.0549583435
+44.2093391418
+44.2093391418
+34.4225349426
+34.4225349426
+30.5415649414
+30.5415649414
+26.829328537
+26.829328537
+27.8417568207
+27.8417568207
+24.1295223236
+24.1295223236
+25.9856395721
+25.9856395721
+29.8666133881
+29.8666133881
+23.2858314514
+23.2858314514
+10.7992277145
+10.7992277145
+14.0052480698
+14.0052480698
+13.6677722931
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>158</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+41.8771286011
+41.8771286011
+33.2426681519
+33.2426681519
+29.5730247498
+29.5730247498
+29.7888832092
+29.7888832092
+22.881319046
+22.881319046
+6.25998353958
+6.25998353958
+5.61239862442
+5.61239862442
+7.55515193939
+7.55515193939
+15.9737491608
+15.9737491608
+13.3834114075
+13.3834114075
+11.0089359283
+11.0089359283
+10.3613519669
+10.3613519669
+2.15861487389
+2.15861487389
+3.02206087112
+3.02206087112
+5.39653730392
+5.39653730392
+10.3613519669
+10.3613519669
+4.9648141861
+4.9648141861
+19.2116718292
+19.2116718292
+31.9474983215
+31.9474983215
+36.9123153687
+36.9123153687
+38.207485199
+38.207485199
+37.1281776428
+37.1281776428
+36.4805908203
+36.4805908203
+37.1281776428
+37.1281776428
+38.4233436584
+38.4233436584
+44.2516059875
+44.2516059875
+53.5336456299
+53.5336456299
+53.5336456299
+53.5336456299
+57.4191513062
+57.4191513062
+42.3088531494
+42.3088531494
+36.4805908203
+36.4805908203
+30.2206077576
+30.2206077576
+21.8020114899
+21.8020114899
+29.7888832092
+29.7888832092
+33.0268058777
+33.0268058777
+35.18542099
+35.18542099
+28.0619926453
+28.0619926453
+5.18067598343
+5.18067598343
+3.23792219162
+3.23792219162
+3.02206110954
+3.02206110954
+2.80619931221
+2.80619931221
+3.66964530945
+3.66964530945
+2.80619931221
+2.80619931221
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+2.80619931221
+2.80619931221
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+2.3744764328
+2.3744764328
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+8.20273685455
+8.20273685455
+41.6612663269
+41.6612663269
+42.7405738831
+42.7405738831
+33.2426681519
+33.2426681519
+36.0488700867
+36.0488700867
+35.18542099
+35.18542099
+36.0488700867
+36.0488700867
+36.2647285461
+36.2647285461
+35.8330078125
+35.8330078125
+44.8991889954
+44.8991889954
+1223.71887207
+1223.71887207
+21.1544265747
+21.1544265747
+757.673828125
+757.673828125
+2623.79638672
+2623.79638672
+1586.36608887
+1586.36608887
+1785.17456055
+1785.17456055
+515.477233887
+515.477233887
+1182.05749512
+1182.05749512
+47.9212532043
+47.9212532043
+41.8771286011
+41.8771286011
+47.7053909302
+47.7053909302
+42.5247154236
+42.5247154236
+25.6875152588
+25.6875152588
+14.8944416046
+14.8944416046
+20.9385643005
+20.9385643005
+24.176486969
+24.176486969
+293.139892578
+293.139892578
+33.458530426
+33.458530426
+33.458530426
+33.458530426
+42.5247154236
+42.5247154236
+40.7978210449
+40.7978210449
+35.18542099
+35.18542099
+14.0309963226
+14.0309963226
+8.63445949554
+8.63445949554
+22.0178718567
+22.0178718567
+37.1281776428
+37.1281776428
+32.1633605957
+32.1633605957
+42.3088531494
+42.3088531494
+33.2426681519
+33.2426681519
+36.6964530945
+36.6964530945
+35.18542099
+35.18542099
+30.0047454834
+30.0047454834
+29.5730247498
+29.5730247498
+29.7888832092
+29.7888832092
+9.4979057312
+9.4979057312
+8.20273685455
+8.20273685455
+7.77101325989
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>159</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+31.4822616577
+31.4822616577
+25.504617691
+25.504617691
+22.7150535583
+22.7150535583
+23.1135578156
+23.1135578156
+16.3388977051
+16.3388977051
+5.57913589478
+5.57913589478
+4.38360595703
+4.38360595703
+7.97019338608
+7.97019338608
+21.5195198059
+21.5195198059
+20.7225017548
+20.7225017548
+10.3612508774
+10.3612508774
+9.16572284698
+9.16572284698
+1.99254834652
+1.99254834652
+1.59403860569
+1.59403860569
+3.98509669304
+3.98509669304
+11.1582717896
+11.1582717896
+3.18807721138
+3.18807721138
+13.5493268967
+13.5493268967
+23.1135578156
+23.1135578156
+26.3016395569
+26.3016395569
+28.6926994324
+28.6926994324
+26.7001514435
+26.7001514435
+27.4971656799
+27.4971656799
+26.7001514435
+26.7001514435
+27.0986537933
+27.0986537933
+31.8807735443
+31.8807735443
+39.053943634
+39.053943634
+41.0464935303
+41.0464935303
+42.2420196533
+42.2420196533
+28.2941875458
+28.2941875458
+23.5120697021
+23.5120697021
+17.9329357147
+17.9329357147
+14.3463497162
+14.3463497162
+21.1210098267
+21.1210098267
+25.1061058044
+25.1061058044
+27.0986537933
+27.0986537933
+19.9254837036
+19.9254837036
+3.58658742905
+3.58658742905
+0
+0
+1.59403908253
+1.59403908253
+1.19552886486
+1.19552886486
+0.797019541264
+0.797019541264
+1.19552886486
+1.19552886486
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.19552886486
+1.19552886486
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+0.398509770632
+0.398509770632
+1.59403908253
+1.59403908253
+1.59403908253
+1.59403908253
+5.18062639236
+5.18062639236
+31.0837516785
+31.0837516785
+31.0837516785
+31.0837516785
+23.5120697021
+23.5120697021
+24.7076034546
+24.7076034546
+25.1061058044
+25.1061058044
+26.7001514435
+26.7001514435
+27.0986537933
+27.0986537933
+26.3016395569
+26.3016395569
+31.0837516785
+31.0837516785
+971.965209961
+971.965209961
+15.1433677673
+15.1433677673
+530.017883301
+530.017883301
+2090.18310547
+2090.18310547
+1274.83251953
+1274.83251953
+1436.62731934
+1436.62731934
+385.757385254
+385.757385254
+976.747131348
+976.747131348
+34.6703453064
+34.6703453064
+33.474811554
+33.474811554
+38.2569313049
+38.2569313049
+32.6777954102
+32.6777954102
+19.526971817
+19.526971817
+9.56423091888
+9.56423091888
+14.7448568344
+14.7448568344
+16.737405777
+16.737405777
+226.353500366
+226.353500366
+23.9105796814
+23.9105796814
+23.9105796814
+23.9105796814
+30.6852474213
+30.6852474213
+29.4897136688
+29.4897136688
+25.1061058044
+25.1061058044
+9.96274185181
+9.96274185181
+5.97764492035
+5.97764492035
+14.7448568344
+14.7448568344
+28.6926994324
+28.6926994324
+23.5120697021
+23.5120697021
+28.2941875458
+28.2941875458
+23.5120697021
+23.5120697021
+25.9031276703
+25.9031276703
+23.1135578156
+23.1135578156
+19.526971817
+19.526971817
+20.7225055695
+20.7225055695
+23.1135578156
+23.1135578156
+5.57913589478
+5.57913589478
+1.19552981853
+1.19552981853
+0.398509293795
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>160</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 6</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>161</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>162</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>163</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+42.8594322205
+44.040599823
+43.0281715393
+30.5415649414
+47.2466201782
+41.1720542908
+36.2786521912
+9.78680038452
+19.7423381805
+23.9607868195
+14.1739845276
+11.8116550446
+11.4741792679
+12.4866056442
+3.37475848198
+3.37475848198
+20.9235019684
+40.8345794678
+26.154378891
+23.2858314514
+20.4172897339
+16.0301036835
+37.6285552979
+12.9928216934
+25.9856395721
+3.54349708557
+0
+0
+0.168737769127
+45.5592384338
+48.4277839661
+47.2466201782
+12.6553440094
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>164</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xd8d8 0x2626 0x2f2f</DataObjectColor>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+46.1943588257
+47.7053909302
+45.3309135437
+29.3571624756
+48.5688362122
+46.1943588257
+37.7757606506
+18.9958114624
+38.207485199
+50.0798683167
+26.7668228149
+22.6654567719
+22.2337341309
+24.60820961
+20.5068416595
+38.8550682068
+42.9564361572
+12.3041067123
+55.0446777344
+38.4233436584
+41.2295455933
+37.7757606506
+14.6785793304
+32.8109474182
+53.7495079041
+18.5640888214
+11.440659523
+24.176486969
+26.1192417145
+38.8550682068
+2.59033751488
+0
+22.6654567719
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>165</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+33.474811554
+34.2718315125
+33.8733215332
+20.3239955902
+33.8733215332
+33.474811554
+27.8956775665
+23.1135616302
+52.6032791138
+76.5138626099
+37.4599075317
+29.8882255554
+29.0912075043
+33.474811554
+57.7839012146
+87.67212677
+55.3928413391
+18.7299575806
+87.67212677
+58.9794273376
+62.1675109863
+23.9105796814
+21.1210098267
+58.5809249878
+87.2736129761
+52.2047691345
+86.8751068115
+122.342468262
+6.37615442276
+0
+0
+0
+31.8807735443
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>166</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 7</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>167</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>168</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>169</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+6.07456588745
+1.18116557598
+0.843689620495
+0.337475836277
+0
+0
+0
+0
+0
+0
+0
+0
+0.16873857379
+0.843689620495
+0
+0
+0
+0
+0
+37.4598197937
+36.784866333
+36.2786521912
+30.7103042603
+21.4297161102
+21.0922412872
+30.7103042603
+37.6285552979
+28.516708374
+21.2609786987
+18.5611724854
+17.7174816132
+18.3924331665
+15.3551521301
+13.3302965164
+9.28058624268
+0.168737918139
+0.168737918139
+1.68737924099
+10.2930135727
+0.843689620495
+0.337475836277
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>170</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+15.326166153
+2.59033799171
+1.07930743694
+0.431722939014
+1.07930743694
+2.15861487389
+3.02206110954
+4.53309106827
+4.31722974777
+6.47584438324
+7.55515193939
+11.872382164
+16.4054737091
+17.2689189911
+18.3482265472
+36.4805908203
+59.361907959
+71.2342910767
+70.37084198
+29.5730247498
+28.7095756531
+28.0619926453
+23.0971794128
+14.4627189636
+11.872382164
+13.3834114075
+15.7578887939
+10.5772123337
+9.92962932587
+8.63445949554
+0
+0
+0
+0
+0
+1.29516899586
+1.29516899586
+3.23792219162
+8.85032081604
+1.07930743694
+0.431722939014
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>171</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+24.309091568
+2.78956794739
+0
+0.797019302845
+1.99254834652
+7.97019338608
+19.5269737244
+30.2867336273
+39.8509674072
+63.7615470886
+73.7242889404
+73.7242889404
+88.070640564
+89.6646728516
+87.67212677
+95.243812561
+97.6348724365
+89.6646728516
+80.1004486084
+14.7448606491
+17.1359119415
+13.9478387833
+10.759759903
+4.78211545944
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58658742905
+5.97764492035
+0.398509651423
+0.398509651423
+5.97764492035
+6.37615442276
+0
+0.797019302845
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>172</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 8</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>173</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>174</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>175</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8.09941864014
+30.2040882111
+30.5415649414
+27.6730194092
+20.4172897339
+12.4866065979
+17.0425300598
+23.2858333588
+32.7351570129
+17.886220932
+12.9928197861
+11.9803924561
+11.9803924561
+12.4866065979
+9.44932365417
+9.1118478775
+4.38718605042
+0.337475836277
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>176</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3b3b 0x8b8b 0xcccc</DataObjectColor>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+1.07930743694
+0.863445878029
+1.07930743694
+1.51103055477
+2.59033799171
+3.88550710678
+4.31722974777
+6.04412221909
+9.49790477753
+8.85032176971
+10.5772123337
+26.335100174
+51.3750305176
+65.6218948364
+60.0094909668
+18.1323642731
+17.4847812653
+15.9737491608
+12.0882444382
+6.25998353958
+6.69170570374
+7.1234292984
+7.33928966522
+5.61239862442
+4.74895238876
+4.53309106827
+0
+0
+0
+0
+0.215861544013
+0.431722939014
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>177</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xbaba 0xb2b2 0x1e1e</DataObjectColor>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+1.99254834652
+3.58658695221
+7.97019338608
+14.7448577881
+26.7001476288
+45.0315933228
+51.8062553406
+56.9868850708
+71.3332290649
+70.1377029419
+73.3257751465
+76.5138626099
+76.912361145
+67.3481292725
+15.1433639526
+7.57168197632
+6.37615633011
+5.57913398743
+4.38360786438
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1.59403908253
+0.398509770632
+0.797019302845
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>178</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 9</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>179</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>5</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>180</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>6</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>181</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>7</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+31.5539932251
+31.7227287292
+30.2040882111
+23.6233100891
+15.0176744461
+14.6801986694
+23.1170959473
+32.3976821899
+21.9359302521
+15.3551521301
+12.9928197861
+12.4866065979
+13.1615581512
+9.95553779602
+9.28058624268
+5.90582752228
+3.20602083206
+5.06213760376
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>182</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+3.88550710678
+4.74895238876
+5.82825994492
+9.06618213654
+9.92962932587
+9.7137670517
+21.5861492157
+44.2516059875
+67.1329269409
+66.7012023926
+19.8592567444
+18.9958114624
+18.1323642731
+15.1103038788
+8.41859817505
+6.90756702423
+7.98687458038
+7.98687458038
+6.47584438324
+4.53309106827
+4.74895238876
+0
+0
+0
+0
+0
+6.25998353958
+11.872382164
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>183</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x5b5b 0x2c2c 0x6363</DataObjectColor>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+53.0017852783
+56.5883712769
+54.5958251953
+68.5436630249
+72.1302490234
+69.7391891479
+77.7093887329
+81.694480896
+72.1302490234
+65.3555831909
+6.77466344833
+7.17317485809
+7.57168197632
+3.98509669304
+1.59403908253
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1.99254834652
+9.56423282623
+13.9478387833
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>184</ID>
+    <BroadcastTo>1 101</BroadcastTo>
+    <DataSetName>Data Set 10</DataSetName>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetMatrixLatest>0</DataSetMatrixLatest>
+    <DataColumn>
+      <ID>185</ID>
+      <ColumnGroupID>110</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>4 101 115 116 117</BroadcastTo>
+      <DataObjectName>Time</DataObjectName>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>2</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnCells>
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+1
+1.05
+1.1
+1.15
+1.2
+1.25
+1.3
+1.35
+1.4
+1.45
+1.5
+1.55
+1.6
+1.65
+1.7
+1.75
+1.8
+1.85
+1.9
+1.95
+2
+2.05
+2.1
+2.15
+2.2
+2.25
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2.65
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+3.2
+3.25
+3.3
+3.35
+3.4
+3.45
+3.5
+3.55
+3.6
+3.65
+3.7
+3.75
+3.8
+3.85
+3.9
+3.95
+4
+4.05
+4.1
+4.15
+4.2
+4.25
+4.3
+4.35
+4.4
+4.45
+4.5
+4.55
+4.6
+4.65
+4.7
+4.75
+4.8
+4.85
+4.9
+4.95
+5
+5.05
+5.1
+5.15
+5.2
+5.25
+5.3
+5.35
+5.4
+5.45
+5.5
+5.55
+5.6
+5.65
+5.7
+5.75
+5.8
+5.85
+5.9
+5.95
+6
+6.05
+6.1
+6.15
+6.2
+6.25
+6.3
+6.35
+6.4
+6.45
+6.5
+6.55
+6.6
+6.65
+6.7
+6.75
+6.8
+6.85
+6.9
+6.95
+7
+7.05
+7.1
+7.15
+7.2
+7.25
+7.3
+7.35
+7.4
+7.45
+7.5
+7.55
+7.6
+7.65
+7.7
+7.75
+7.8
+7.85
+7.9
+7.95
+8
+8.05
+8.1
+8.15
+8.2
+8.25
+8.3
+8.35
+8.4
+8.45
+8.5
+8.55
+8.6
+8.65
+8.7
+8.75
+8.8
+8.85
+8.9
+8.95
+9
+9.05
+9.1
+9.15
+9.2
+9.25
+9.3
+9.35
+9.4
+9.45
+9.5
+9.55
+9.6
+9.65
+9.7
+9.75
+9.8
+9.85
+9.9
+9.95
+10
+10.05
+10.1
+10.15
+10.2
+10.25
+10.3
+10.35
+10.4
+10.45
+10.5
+10.55
+10.6
+10.65
+10.7
+10.75
+10.8
+10.85
+10.9
+10.95
+11
+11.05
+11.1
+11.15
+11.2
+11.25
+11.3
+11.35
+11.4
+11.45
+11.5
+11.55
+11.6
+11.65
+11.7
+11.75
+11.8
+11.85
+11.9
+11.95
+12
+12.05
+12.1
+12.15
+12.2
+12.25
+12.3
+12.35
+12.4
+12.45
+12.5
+12.55
+12.6
+12.65
+12.7
+12.75
+12.8
+12.85
+12.9
+12.95
+13
+13.05
+13.1
+13.15
+13.2
+13.25
+13.3
+13.35
+13.4
+13.45
+13.5
+13.55
+13.6
+13.65
+13.7
+13.75
+13.8
+13.85
+13.9
+13.95
+14
+14.05
+14.1
+14.15
+14.2
+14.25
+14.3
+14.35
+14.4
+14.45
+14.5
+14.55
+14.6
+14.65
+14.7
+14.75
+14.8
+14.85
+14.9
+14.95
+15
+15.05
+15.1
+15.15
+15.2
+15.25
+15.3
+15.35
+15.4
+15.45
+15.5
+15.55
+15.6
+15.65
+15.7
+15.75
+15.8
+15.85
+15.9
+15.95
+16
+16.05
+16.1
+16.15
+16.2
+16.25
+16.3
+16.35
+16.4
+16.45
+16.5
+16.55
+16.6
+16.65
+16.7
+16.75
+16.8
+16.85
+16.9
+16.95
+17
+17.05
+17.1
+17.15
+17.2
+17.25
+17.3
+17.35
+17.4
+17.45
+17.5
+17.55
+17.6
+17.65
+17.7
+17.75
+17.8
+17.85
+17.9
+17.95
+18
+18.05
+18.1
+18.15
+18.2
+18.25
+18.3
+18.35
+18.4
+18.45
+18.5
+18.55
+18.6
+18.65
+18.7
+18.75
+18.8
+18.85
+18.9
+18.95
+19
+19.05
+19.1
+19.15
+19.2
+19.25
+19.3
+19.35
+19.4
+19.45
+19.5
+19.55
+19.6
+19.65
+19.7
+19.75
+19.8
+19.85
+19.9
+19.95
+20
+20.05
+20.1
+20.15
+20.2
+20.25
+20.3
+20.35
+20.4
+20.45
+20.5
+20.55
+20.6
+20.65
+20.7
+20.75
+20.8
+20.85
+20.9
+20.95
+21
+21.05
+21.1
+21.15
+21.2
+21.25
+21.3
+21.35
+21.4
+21.45
+21.5
+21.55
+21.6
+21.65
+21.7
+21.75
+21.8
+21.85
+21.9
+21.95
+22
+22.05
+22.1
+22.15
+22.2
+22.25
+22.3
+22.35
+22.4
+22.45
+22.5
+22.55
+22.6
+22.65
+22.7
+22.75
+22.8
+22.85
+22.9
+22.95
+23
+23.05
+23.1
+23.15
+23.2
+23.25
+23.3
+23.35
+23.4
+23.45
+23.5
+23.55
+23.6
+23.65
+23.7
+23.75
+23.8
+23.85
+23.9
+23.95
+24
+24.05
+24.1
+24.15
+24.2
+24.25
+24.3
+24.35
+24.4
+24.45
+24.5
+24.55
+24.6
+24.65
+24.7
+24.75
+24.8
+24.85
+24.9
+24.95
+25
+25.05
+25.1
+25.15
+25.2
+25.25
+25.3
+25.35
+25.4
+25.45
+25.5
+25.55
+25.6
+25.65
+25.7
+25.75
+25.8
+25.85
+25.9
+25.95
+26
+26.05
+26.1
+26.15
+26.2
+26.25
+26.3
+26.35
+26.4
+26.45
+26.5
+26.55
+26.6
+26.65
+26.7
+26.75
+26.8
+26.85
+26.9
+26.95
+27
+27.05
+27.1
+27.15
+27.2
+27.25
+27.3
+27.35
+27.4
+27.45
+27.5
+27.55
+27.6
+27.65
+27.7
+27.75
+27.8
+27.85
+27.9
+27.95
+28
+28.05
+28.1
+28.15
+28.2
+28.25
+28.3
+28.35
+28.4
+28.45
+28.5
+28.55
+28.6
+28.65
+28.7
+28.75
+28.8
+28.85
+28.9
+28.95
+29
+29.05
+29.1
+29.15
+29.2
+29.25
+29.3
+29.35
+29.4
+29.45
+29.5
+29.55
+29.6
+29.65
+29.7
+29.75
+29.8
+29.85
+29.9
+29.95
+30
+30.05
+30.1
+30.15
+30.2
+30.25
+30.3
+30.35
+30.4
+30.45
+30.5
+30.55
+30.6
+30.65
+30.7
+30.75
+30.8
+30.85
+30.9
+30.95
+31
+31.05
+31.1
+31.15
+31.2
+31.25
+31.3
+31.35
+31.4
+31.45
+31.5
+31.55
+31.6
+31.65
+31.7
+31.75
+31.8
+31.85
+31.9
+31.95
+32
+32.05
+32.1
+32.15
+32.2
+32.25
+32.3
+32.35
+32.4
+32.45
+32.5
+32.55
+32.6
+32.65
+32.7
+32.75
+32.8
+32.85
+32.9
+32.95
+33
+33.05
+33.1
+33.15
+33.2
+33.25
+33.3
+33.35
+33.4
+33.45
+33.5
+33.55
+33.6
+33.65
+33.7
+33.75
+33.8
+33.85
+33.9
+33.95
+34
+34.05
+34.1
+34.15
+34.2
+34.25
+34.3
+34.35
+34.4
+34.45
+34.5
+34.55
+34.6
+34.65
+34.7
+34.75
+34.8
+34.85
+34.9
+34.95
+35
+35.05
+35.1
+35.15
+35.2
+35.25
+35.3
+35.35
+35.4
+35.45
+35.5
+35.55
+35.6
+35.65
+35.7
+35.75
+35.8
+35.85
+35.9
+35.95
+36
+36.05
+36.1
+36.15
+36.2
+36.25
+36.3
+36.35
+36.4
+36.45
+36.5
+36.55
+36.6
+36.65
+36.7
+36.75
+36.8
+36.85
+36.9
+36.95
+37
+37.05
+37.1
+37.15
+37.2
+37.25
+37.3
+37.35
+37.4
+37.45
+37.5
+37.55
+37.6
+37.65
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>186</ID>
+      <ColumnGroupID>112</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>1 101</BroadcastTo>
+      <DataObjectName>Illuminance</DataObjectName>
+      <ColumnUnits>lux</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307373</StartTime>
+      <ColumnStartCollectTime>1582307373</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>Illuminance</ColumnMatchTag>
+      <ColumnCells>
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+Z1 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>187</ID>
+      <ColumnGroupID>131</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 115</BroadcastTo>
+      <DataObjectName>615 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307500</StartTime>
+      <ColumnStartCollectTime>1582307500</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x3333 0x4545 0xaaaa</DataObjectColor>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>615 nm</ColumnMatchTag>
+      <ColumnCells>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.337475836277
+0.168737918139
+0.168737918139
+0.168737918139
+0.168737918139
+0
+0
+0.168737918139
+0.168737918139
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.168737769127
+0.168737769127
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.337475538254
+0.337475538254
+0.337475538254
+0.337475538254
+0
+0
+0
+0
+0.337475538254
+0.337475538254
+0.337475538254
+0.337475538254
+0
+0
+0
+0
+0.168737769127
+0.168737769127
+0.506214082241
+0.506214082241
+0.506214082241
+0.506214082241
+0.674951851368
+0.674951851368
+0.506214082241
+0.506214082241
+0.674951851368
+0.674951851368
+0.674951851368
+0.674951851368
+0.168737769127
+0.168737769127
+0.168737769127
+0.168737769127
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.337475538254
+0.337475538254
+4.72466230392
+4.72466230392
+11.1367025375
+11.1367025375
+11.6429166794
+11.6429166794
+11.8116550446
+11.8116550446
+11.8116550446
+11.8116550446
+11.8116550446
+11.8116550446
+11.6429166794
+11.6429166794
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+12.1491298676
+11.4741792679
+11.4741792679
+11.6429166794
+11.6429166794
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.4741792679
+11.8116550446
+11.8116550446
+11.1367025375
+11.1367025375
+11.1367025375
+11.1367025375
+11.4741792679
+11.4741792679
+10.7992277145
+10.7992277145
+10.7992277145
+10.7992277145
+10.7992277145
+10.7992277145
+10.4617509842
+10.4617509842
+9.95553779602
+9.95553779602
+9.95553779602
+9.95553779602
+9.61806106567
+9.61806106567
+9.61806106567
+9.61806106567
+9.78680038452
+9.78680038452
+9.28058624268
+9.28058624268
+8.943110466
+8.943110466
+8.43689632416
+8.43689632416
+8.09942054749
+8.09942054749
+6.74951696396
+6.74951696396
+6.74951696396
+6.74951696396
+6.91825485229
+6.91825485229
+6.41204118729
+6.41204118729
+6.58077907562
+6.58077907562
+6.07456493378
+6.07456493378
+6.24330329895
+6.24330329895
+5.73708963394
+5.73708963394
+5.73708963394
+5.73708963394
+5.90582752228
+5.90582752228
+5.90582752228
+5.90582752228
+5.90582752228
+5.90582752228
+6.58077907562
+6.58077907562
+6.41204118729
+6.41204118729
+7.08699226379
+7.08699226379
+7.08699226379
+7.08699226379
+7.59320640564
+7.59320640564
+8.09942054749
+8.09942054749
+8.09942054749
+8.09942054749
+8.77437210083
+8.77437210083
+8.77437210083
+8.77437210083
+9.28058624268
+9.28058624268
+9.28058624268
+9.28058624268
+9.78680038452
+9.78680038452
+9.78680038452
+9.78680038452
+9.78680038452
+9.78680038452
+9.78680038452
+9.78680038452
+10.4617509842
+10.4617509842
+10.2930135727
+10.2930135727
+10.967965126
+10.967965126
+11.3054409027
+11.3054409027
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.6553440094
+12.3178691864
+12.3178691864
+12.3178691864
+12.3178691864
+11.6429166794
+11.6429166794
+10.4617509842
+10.4617509842
+10.1242752075
+10.1242752075
+9.44932365417
+9.44932365417
+8.77437210083
+8.77437210083
+8.77437210083
+8.77437210083
+8.09942054749
+8.09942054749
+8.09942054749
+8.09942054749
+8.26815891266
+8.26815891266
+7.76194429398
+7.76194429398
+7.2557311058
+7.2557311058
+6.58077907562
+6.58077907562
+7.2557311058
+7.2557311058
+7.2557311058
+7.2557311058
+6.58077907562
+6.58077907562
+6.58077907562
+6.58077907562
+6.24330329895
+6.24330329895
+6.58077907562
+6.58077907562
+6.58077907562
+6.58077907562
+5.90582752228
+5.90582752228
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+6.24330329895
+5.90582752228
+5.90582752228
+5.90582752228
+5.90582752228
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+6.07456493378
+5.39961385727
+5.39961385727
+5.39961385727
+5.39961385727
+5.39961385727
+5.39961385727
+5.39961385727
+5.39961385727
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.72466182709
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.55592393875
+4.38718605042
+4.38718605042
+3.71223449707
+3.71223449707
+3.71223449707
+3.71223449707
+3.71223449707
+3.71223449707
+3.71223449707
+3.71223449707
+3.03728246689
+3.03728246689
+3.03728246689
+3.03728246689
+2.36233091354
+2.36233091354
+2.53106880188
+2.53106880188
+1.85611724854
+1.85611724854
+2.02485513687
+2.02485513687
+1.34990346432
+1.34990346432
+0.843689620495
+0.843689620495
+1.01242756844
+1.01242756844
+0.337475836277
+0.337475836277
+0.506213784218
+0.506213784218
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>188</ID>
+      <ColumnGroupID>137</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 116</BroadcastTo>
+      <DataObjectName>525 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307501</StartTime>
+      <ColumnStartCollectTime>1582307501</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0xe2e2 0x6060 0x9494</DataObjectColor>
+      <ColumnPPStyle>3</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>525 nm</ColumnMatchTag>
+      <ColumnCells>
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.431722939014
+0.215861469507
+0.215861469507
+0.215861469507
+0.215861469507
+0
+0
+0.215861469507
+0.215861469507
+0
+0
+0
+0
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.647584497929
+0.647584497929
+0.647584497929
+0.647584497929
+0.647584497929
+0.647584497929
+0.647584497929
+0.647584497929
+1.29516899586
+1.29516899586
+1.29516899586
+1.29516899586
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+0.863445878029
+1.07930743694
+1.07930743694
+0.647584378719
+0.647584378719
+0.863445878029
+0.863445878029
+1.51103055477
+1.51103055477
+1.29516899586
+1.29516899586
+1.29516899586
+1.29516899586
+1.07930743694
+1.07930743694
+1.07930743694
+1.07930743694
+1.72689175606
+1.72689175606
+1.72689175606
+1.72689175606
+1.29516899586
+1.29516899586
+1.07930743694
+1.07930743694
+1.94275355339
+1.94275355339
+1.94275355339
+1.94275355339
+1.72689175606
+1.72689175606
+1.29516875744
+1.29516875744
+2.15861487389
+2.15861487389
+2.37447619438
+2.37447619438
+2.15861487389
+2.15861487389
+2.59033799171
+2.59033799171
+2.37447619438
+2.37447619438
+2.80619931221
+2.80619931221
+2.37447619438
+2.37447619438
+2.59033799171
+2.59033799171
+2.37447619438
+2.37447619438
+2.37447619438
+2.37447619438
+2.37447619438
+2.37447619438
+3.23792219162
+3.23792219162
+3.02206110954
+3.02206110954
+3.23792219162
+3.23792219162
+3.88550662994
+3.88550662994
+3.02206110954
+3.02206110954
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+3.88550662994
+3.88550662994
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+4.10136842728
+4.10136842728
+4.10136842728
+4.10136842728
+4.96481466293
+4.96481466293
+4.10136842728
+4.10136842728
+4.74895238876
+4.74895238876
+4.53309106827
+4.53309106827
+4.96481466293
+4.96481466293
+4.96481466293
+4.96481466293
+5.39653730392
+5.39653730392
+5.18067598343
+5.18067598343
+5.39653730392
+5.39653730392
+5.82825994492
+5.82825994492
+5.82825994492
+5.82825994492
+5.39653730392
+5.39653730392
+5.39653730392
+5.39653730392
+5.82825994492
+5.82825994492
+5.82825994492
+5.82825994492
+6.25998353958
+6.25998353958
+5.39653730392
+5.39653730392
+5.61239862442
+5.61239862442
+6.04412221909
+6.04412221909
+6.04412221909
+6.04412221909
+6.25998353958
+6.25998353958
+6.04412221909
+6.04412221909
+6.25998353958
+6.25998353958
+6.25998353958
+6.25998353958
+5.61239862442
+5.61239862442
+5.61239862442
+5.61239862442
+6.04412221909
+6.04412221909
+5.82825994492
+5.82825994492
+6.47584438324
+6.47584438324
+7.1234292984
+7.1234292984
+7.3392906189
+7.3392906189
+7.98687458038
+7.98687458038
+7.77101325989
+7.77101325989
+8.41859817505
+8.41859817505
+9.4979057312
+9.4979057312
+11.0089359283
+11.0089359283
+11.440659523
+11.440659523
+12.304104805
+12.304104805
+13.5992736816
+13.5992736816
+15.1103038788
+15.1103038788
+14.8944425583
+14.8944425583
+15.7578887939
+15.7578887939
+16.6213340759
+16.6213340759
+17.2689189911
+17.2689189911
+17.9165039062
+17.9165039062
+18.5640888214
+18.5640888214
+20.2909793854
+20.2909793854
+20.0751190186
+20.0751190186
+21.5861492157
+21.5861492157
+21.5861492157
+21.5861492157
+22.4495944977
+22.4495944977
+22.4495944977
+22.4495944977
+23.313041687
+23.313041687
+23.0971794128
+23.0971794128
+23.9606266022
+23.9606266022
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.176486969
+24.3923492432
+24.3923492432
+23.744764328
+23.744764328
+23.9606266022
+23.9606266022
+23.744764328
+23.744764328
+22.0178718567
+22.0178718567
+21.1544265747
+21.1544265747
+17.4847812653
+17.4847812653
+10.5772132874
+10.5772132874
+8.63445949554
+8.63445949554
+8.63445949554
+8.63445949554
+8.63445949554
+8.63445949554
+9.4979057312
+9.4979057312
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.06618213654
+9.28204441071
+9.28204441071
+9.4979057312
+9.4979057312
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+9.28204441071
+8.63445949554
+8.63445949554
+8.85032081604
+8.85032081604
+8.85032081604
+8.85032081604
+8.20273685455
+8.20273685455
+8.41859817505
+8.41859817505
+8.41859817505
+8.41859817505
+8.41859817505
+8.41859817505
+7.98687458038
+7.98687458038
+7.3392906189
+7.3392906189
+7.3392906189
+7.3392906189
+6.90756702423
+6.90756702423
+6.90756702423
+6.90756702423
+6.04412221909
+6.04412221909
+6.47584438324
+6.47584438324
+6.04412221909
+6.04412221909
+5.39653730392
+5.39653730392
+4.9648141861
+4.9648141861
+5.39653730392
+5.39653730392
+5.39653730392
+5.39653730392
+4.53309106827
+4.53309106827
+4.9648141861
+4.9648141861
+4.10136842728
+4.10136842728
+4.53309106827
+4.53309106827
+3.66964530945
+3.66964530945
+4.10136842728
+4.10136842728
+4.10136842728
+4.10136842728
+3.23792219162
+3.23792219162
+3.23792219162
+3.23792219162
+3.23792219162
+3.23792219162
+3.02206110954
+3.02206110954
+3.88550662994
+3.88550662994
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+3.23792219162
+3.23792219162
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.66964530945
+3.66964530945
+4.53309106827
+4.53309106827
+4.31722974777
+4.31722974777
+4.74895238876
+4.74895238876
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+4.31722974777
+3.88550710678
+3.88550710678
+3.88550710678
+3.88550710678
+4.10136842728
+4.10136842728
+3.66964530945
+3.66964530945
+3.23792219162
+3.23792219162
+3.45378351212
+3.45378351212
+3.66964530945
+3.66964530945
+3.66964530945
+3.66964530945
+3.88550662994
+3.88550662994
+3.88550662994
+3.88550662994
+3.02206110954
+3.02206110954
+3.45378351212
+3.45378351212
+2.80619931221
+2.80619931221
+3.02206110954
+3.02206110954
+2.80619931221
+2.80619931221
+2.80619931221
+2.80619931221
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+2.59033799171
+2.59033799171
+3.02206110954
+3.02206110954
+3.02206110954
+3.02206110954
+3.23792219162
+3.23792219162
+3.45378351212
+3.45378351212
+3.45378351212
+3.45378351212
+3.45378351212
+3.45378351212
+3.45378351212
+3.45378351212
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+2.59033799171
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.215861544013
+0.215861544013
+0.431723088026
+0.431723088026
+0.431723088026
+0.431723088026
+0.431723088026
+0.431723088026
+0.431723088026
+0.431723088026
+0.647584378719
+0.647584378719
+0.647584378719
+0.647584378719
+0.863445878029
+0.863445878029
+0
+0
+0.215861544013
+0.215861544013
+0.431722939014
+0.431722939014
+0.647584497929
+0.647584497929
+1.07930743694
+1.07930743694
+0.215861469507
+0.215861469507
+0.431722939014
+0.431722939014
+0.647584497929
+0.647584497929
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+0.863445937634
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>189</ID>
+      <ColumnGroupID>143</ColumnGroupID>
+      <UDMVertexID>0</UDMVertexID>
+      <BroadcastTo>2 101 117</BroadcastTo>
+      <DataObjectName>465 nm</DataObjectName>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1582307512</StartTime>
+      <ColumnStartCollectTime>1582307512</ColumnStartCollectTime>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <UDMAutomaticPrecision>0</UDMAutomaticPrecision>
+      <ColumnMatrixStyleNum>0</ColumnMatrixStyleNum>
+      <DataObjectColor>0x5b5b 0x2c2c 0x6363</DataObjectColor>
+      <ColumnPPStyle>4</ColumnPPStyle>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnMatchTag>465 nm</ColumnMatchTag>
+      <ColumnCells>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+0.797019302845
+2.39105820656
+2.39105820656
+2.39105820656
+2.39105820656
+3.98509669304
+3.98509669304
+2.39105820656
+2.39105820656
+3.98509669304
+3.98509669304
+3.98509669304
+3.98509669304
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+3.58658695221
+5.18062543869
+5.18062543869
+5.18062543869
+5.18062543869
+5.18062543869
+5.18062543869
+5.18062543869
+5.18062543869
+6.3761548996
+6.3761548996
+6.3761548996
+6.3761548996
+7.57168340683
+7.57168340683
+7.57168340683
+7.57168340683
+7.57168340683
+7.57168340683
+7.97019338608
+7.97019338608
+9.16572189331
+9.16572189331
+7.57168340683
+7.57168340683
+8.76721286774
+8.76721286774
+10.3612508774
+10.3612508774
+10.3612508774
+10.3612508774
+11.9552898407
+11.9552898407
+11.9552898407
+11.9552898407
+13.1508188248
+13.1508188248
+13.1508188248
+13.1508188248
+14.3463478088
+14.3463478088
+15.9403867722
+15.9403867722
+15.5418777466
+15.5418777466
+15.5418777466
+15.5418777466
+17.1359157562
+17.1359157562
+18.3314437866
+18.3314437866
+17.9329357147
+17.9329357147
+20.3239936829
+20.3239936829
+21.9180316925
+21.9180316925
+20.7225017548
+20.7225017548
+22.3165416718
+22.3165416718
+23.1135616302
+23.1135616302
+24.3090896606
+24.3090896606
+22.7150497437
+22.7150497437
+24.3090896606
+24.3090896606
+24.3090896606
+24.3090896606
+24.3090896606
+24.3090896606
+23.9105796814
+23.9105796814
+23.5120716095
+23.5120716095
+23.9105796814
+23.9105796814
+23.1135616302
+23.1135616302
+23.5120716095
+23.5120716095
+24.7075996399
+24.7075996399
+24.7075996399
+24.7075996399
+24.7075996399
+24.7075996399
+23.1135616302
+23.1135616302
+24.7075996399
+24.7075996399
+24.7075996399
+24.7075996399
+25.5046195984
+25.5046195984
+25.5046195984
+25.5046195984
+25.1061096191
+25.1061096191
+25.5046195984
+25.5046195984
+26.7001476288
+26.7001476288
+26.3016376495
+26.3016376495
+29.0912075043
+29.0912075043
+29.0912075043
+29.0912075043
+29.8882255554
+29.8882255554
+31.4822635651
+31.4822635651
+29.8882255554
+29.8882255554
+30.6852436066
+30.6852436066
+30.6852436066
+30.6852436066
+29.8882255554
+29.8882255554
+29.8882255554
+29.8882255554
+30.6852436066
+30.6852436066
+30.6852436066
+30.6852436066
+29.4897155762
+29.4897155762
+29.8882255554
+29.8882255554
+28.2941856384
+28.2941856384
+29.0912075043
+29.0912075043
+29.0912075043
+29.0912075043
+27.4971675873
+27.4971675873
+29.0912075043
+29.0912075043
+27.4971675873
+27.4971675873
+27.4971675873
+27.4971675873
+28.2941856384
+28.2941856384
+28.2941856384
+28.2941856384
+27.098657608
+27.098657608
+28.6926956177
+28.6926956177
+29.8882255554
+29.8882255554
+29.0912075043
+29.0912075043
+27.4971675873
+27.4971675873
+28.6926956177
+28.6926956177
+30.2867336273
+30.2867336273
+31.4822635651
+31.4822635651
+29.4897155762
+29.4897155762
+30.2867336273
+30.2867336273
+31.0837554932
+31.0837554932
+30.6852436066
+30.6852436066
+31.0837554932
+31.0837554932
+31.8807735443
+31.8807735443
+31.4822635651
+31.4822635651
+31.0837554932
+31.0837554932
+30.6852436066
+30.6852436066
+29.8882255554
+29.8882255554
+31.0837554932
+31.0837554932
+32.2792854309
+32.2792854309
+31.4822616577
+31.4822616577
+31.0837554932
+31.0837554932
+31.8807735443
+31.8807735443
+31.8807735443
+31.8807735443
+31.4822616577
+31.4822616577
+31.4822616577
+31.4822616577
+31.0837554932
+31.0837554932
+32.6777915955
+32.6777915955
+30.2867355347
+30.2867355347
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+28.6926956177
+27.098657608
+27.098657608
+27.8956775665
+27.8956775665
+26.3016395569
+26.3016395569
+25.9031276703
+25.9031276703
+12.7523088455
+12.7523088455
+7.17317485809
+7.17317485809
+4.38360595703
+4.38360595703
+5.57913589478
+5.57913589478
+3.98509669304
+3.98509669304
+3.98509669304
+3.98509669304
+3.98509669304
+3.98509669304
+3.58658742905
+3.58658742905
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+4.78211545944
+5.18062639236
+5.18062639236
+3.58658742905
+3.58658742905
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+5.18062639236
+3.98509669304
+3.98509669304
+4.38360595703
+4.38360595703
+4.38360595703
+4.38360595703
+3.18807816505
+3.18807816505
+3.58658742905
+3.58658742905
+3.58658742905
+3.58658742905
+3.58658742905
+3.58658742905
+2.78956699371
+2.78956699371
+3.58658742905
+3.58658742905
+3.58658742905
+3.58658742905
+2.78956699371
+2.78956699371
+2.78956699371
+2.78956699371
+3.18807816505
+3.18807816505
+1.99254834652
+1.99254834652
+1.19552981853
+1.19552981853
+1.99254834652
+1.99254834652
+1.19552886486
+1.19552886486
+1.99254834652
+1.99254834652
+1.99254834652
+1.99254834652
+2.39105772972
+2.39105772972
+1.19552886486
+1.19552886486
+1.59403908253
+1.59403908253
+0.398509293795
+0.398509293795
+0.797019541264
+0.797019541264
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.398509770632
+0.398509770632
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+0.797019541264
+1.19552886486
+1.19552886486
+1.19552886486
+1.19552886486
+1.59403860569
+1.59403860569
+1.99254834652
+1.99254834652
+2.39105820656
+2.39105820656
+0.797019302845
+0.797019302845
+1.19552910328
+1.19552910328
+0
+0
+0.398509651423
+0.398509651423
+0.797019302845
+0.797019302845
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSourceServer>
+    <MBLGoDirectSource>
+      <ID>103</ID>
+      <BroadcastTo>0</BroadcastTo>
+    </MBLGoDirectSource>
+  </DataSourceServer>
+  <MBLBrain>
+    <MBLCollectionUserCollectMode>0</MBLCollectionUserCollectMode>
+    <MBLCollectionTimeUnit>1</MBLCollectionTimeUnit>
+    <MBLCollectionDeltaT>0.050000000000</MBLCollectionDeltaT>
+    <MBLCollectionMaxDuration>40.000000000000</MBLCollectionMaxDuration>
+    <MBLCollectionNumSamples>801</MBLCollectionNumSamples>
+    <MBLCollectionOversampling>0</MBLCollectionOversampling>
+    <MBLCollectionRepeat>0</MBLCollectionRepeat>
+    <MBLCollectionTriggerEnabled>0</MBLCollectionTriggerEnabled>
+    <MBLTriggerType>0</MBLTriggerType>
+    <MBLTriggerValue>0.000000000000</MBLTriggerValue>
+    <MBLTriggerPreTriggerData>0</MBLTriggerPreTriggerData>
+    <MBLChannel>
+      <ID>109</ID>
+      <MBLChannelSensorIDName>s091_411</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>411</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits>lux</MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits>lux</MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName></MBLCalibrationIDName>
+        <MBLCalibrationIDValue>411</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>1</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>186</MBLChannelMatch0>
+    </MBLChannel>
+    <MBLChannel>
+      <ID>124</ID>
+      <MBLChannelSensorIDName>s091_419</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>419</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits></MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits></MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName></MBLCalibrationIDName>
+        <MBLCalibrationIDValue>419</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>2</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>129</MBLChannelMatch0>
+    </MBLChannel>
+    <MBLChannel>
+      <ID>130</ID>
+      <MBLChannelSensorIDName>s091_416</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>416</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits></MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits></MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName></MBLCalibrationIDName>
+        <MBLCalibrationIDValue>416</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>5</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>187</MBLChannelMatch0>
+    </MBLChannel>
+    <MBLChannel>
+      <ID>136</ID>
+      <MBLChannelSensorIDName>s091_417</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>417</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits></MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits></MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName></MBLCalibrationIDName>
+        <MBLCalibrationIDValue>417</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>6</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>188</MBLChannelMatch0>
+    </MBLChannel>
+    <MBLChannel>
+      <ID>142</ID>
+      <MBLChannelSensorIDName>s091_418</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>418</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>1</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>0</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLChannelManualSetup>0</MBLChannelManualSetup>
+      <MBLCalibration>
+        <MBLCalibrationUnits></MBLCalibrationUnits>
+        <MBLCalibrationPrettyUnits></MBLCalibrationPrettyUnits>
+        <MBLCalibrationIDName></MBLCalibrationIDName>
+        <MBLCalibrationIDValue>418</MBLCalibrationIDValue>
+        <MBLCalibrationEquationType>1</MBLCalibrationEquationType>
+        <MBLCalibrationCoefficients>2 0 1</MBLCalibrationCoefficients>
+      </MBLCalibration>
+      <MBLChannelIndex>7</MBLChannelIndex>
+      <MBLSensorSourceID>103</MBLSensorSourceID>
+      <MBLChannelMatch0>189</MBLChannelMatch0>
+    </MBLChannel>
+  </MBLBrain>
+</Document>
