@@ -1,14 +1,14 @@
 import gdx
+
+seconds = int(input("How many seconds would you like: "))
+pers = int(input("How many samples per second: "))
+
 gdx = gdx.gdx()
-
-samples = input("How many samples would you like: ")
-period = input("How many seconds: ")/1000
-
 gdx.open_usb()
 gdx.select_sensors([5,6,7])
-gdx.start(period) 
+gdx.start(period = 1000//pers) 
 
-for i in range(sample * period):
+for i in range(seconds * pers):
     measurements = gdx.read() #returns a list of measurements from the sensors selected.
     if measurements == None: 
         break 
