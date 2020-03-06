@@ -1,31 +1,21 @@
 from tkinter import *
-import gdx
-import matplotlib.pyplot as plt
-import numpy as np
+import gdx, matplotlib.pyplot as plt, numpy as np
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 gdx = gdx.gdx()
 
-def graph_data():
+def graph_data(seconds, pers, red, green, blue):
 
-    with open(start_reading) as f:
-        data = f.read().split("\n")
-        print(data)
-
-    red = []
-    green = []
-    blue = []
-
-    for line in data:
-        red.append(float(vals[0]))
-        green.append(float(vals[1]))
-        blue.append(float(vals[2]))
-
-    time = np.arange(0,pers*seconds,1000//pers)
+    plt.ion
 
     fig, ax = plt.subplots(3, 1)
 
-    plt.suptitle("Time v Light")
-    plt.xlabel("Time")
+    chart = FigureCanvasTkAgg(fig, root)
+
+    time = np.arange(0,seconds,1/pers)
+
+    #chart.suptitle("Time v Light")
+    #chart.xlabel("Time")
 
     ax[0].plot(time, red, color="red")
     ax[1].plot(time, green, color="green")
@@ -35,38 +25,45 @@ def graph_data():
     ax[1].set(ylabel="525 nm")
     ax[2].set(ylabel="465 nm")
 
-    plt.show()
+    chart.get_tk_widget().grid(row=0, column=1, columnspan=4, rowspan=5)
 
 def start_reading():
     seconds = int(seconds_field.get())
     pers = int(samples_field.get())
     print(seconds, pers)
 
-    gdx.open_usb()
-    gdx.select_sensors([5,6,7])
     gdx.start(period = 1000//pers) 
+    red = []
+    green = []
+    blue = []
 
     for i in range(seconds * pers):
-        measurements = gdx.read() #returns a list of measurements from the sensors selected.
-        if measurements == None: 
+        vals = gdx.read() #returns a list of measurements from the sensors selected.
+        if vals == None: 
             break 
-        return(measurements)
-    graph_data(start_reading)
+        red.append(vals[0])
+        green.append(vals[1])
+        blue.append(vals[2])
+        print(vals)
 
+    graph_data(seconds, pers, red, green, blue)
 
 root = Tk()
 
+gdx.open_usb()
+gdx.select_sensors([5,6,7])
+
 seconds_label = Label(root, text="How many seconds?")
-seconds_label.pack()
+seconds_label.grid(row=0, sticky=W)
 seconds_field = Entry(root)
-seconds_field.pack()
+seconds_field.grid(row=1)
 
 samples_label = Label(root, text="How many samples per second?")
-samples_label.pack()
+samples_label.grid(row=2, sticky=W)
 samples_field = Entry(root)
-samples_field.pack()
+samples_field.grid(row=3)
 
 start_button = Button(root, command = start_reading, text="Start Sensor")
-start_button.pack()
+start_button.grid(row=4)
 
 root.mainloop()
